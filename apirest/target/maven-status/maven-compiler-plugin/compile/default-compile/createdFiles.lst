@@ -1,0 +1,4 @@
+com\apirest\dao\UsuariosDAO.class
+com\apirest\servicios\UsuariosServicio.class
+com\apirest\servicios\Configuracion.class
+com\apirest\modelo\Usuarios.class
