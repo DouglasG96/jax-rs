@@ -1,0 +1,4 @@
+com\restapi\modelo\Producto.class
+com\restapi\servicios\ProductoServicio.class
+com\restapi\dao\ProductoDAO.class
+com\restapi\servicios\Configuracion.class

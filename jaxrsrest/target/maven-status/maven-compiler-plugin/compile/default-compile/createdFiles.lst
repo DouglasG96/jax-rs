@@ -1,0 +1,7 @@
+com\jaxws\jaxrsrest\PersonaServiceRS.class
+com\javax\servicios\PersonaService.class
+com\javax\servicios\PersonaServiceWS.class
+com\jaxws\jaxrsrest\Configuracion.class
+com\javax\modelos\Persona_.class
+com\javax\modelos\Persona.class
+com\javax\servicios\PersonaServiceImpl.class
